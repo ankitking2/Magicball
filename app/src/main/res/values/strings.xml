@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Magicball</string>
+    <string name="button">Predict</string>
+    <string name="logo">Make every decision easy</string>
+</resources>
